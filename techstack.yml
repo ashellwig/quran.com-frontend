@@ -1,0 +1,2312 @@
+repo_name: ashellwig/quran.com-frontend
+report_id: 97169b0025ad20be9fc2437e37bc6505
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-07T04:22:18+00:00'
+requested_by: mmahalwy
+provider: github
+branch: master
+detected_tools_count: 159
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend
+  detection_source: Repo Metadata
+- name: ES6
+  description: The next version of JavaScript
+  website_url: http://www.ecma-international.org/ecma-262/6.0/
+  version: 6.24.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mmahalwy
+  last_updated_on: 2015-05-20 05:57:02.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-01-20 19:27:53.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-05-15 20:22:31.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  version: 6.3.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/.nvmrc
+  detection_source: Repo Metadata
+  last_updated_by: Ahmed El Gabri
+  last_updated_on: 2016-08-27 20:21:19.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 15.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: React Hot Loader
+  description: Tweak React components in real time
+  website_url: http://gaearon.github.io/react-hot-loader/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 3.5.2
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-05-15 20:22:31.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mmahalwy
+  last_updated_on: 2015-05-20 05:57:02.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: reselect
+  description: Selector library for Redux
+  website_url: https://github.com/reactjs/reselect
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/7757/13142323.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-05-15 20:22:31.000000000 Z
+- name: styled-components
+  description: Visual primitives for the component age. Use the best bits of ES6 and
+    CSS to style your apps without stress.
+  website_url: https://styled-components.com
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6749/styled-components.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: GraphQL
+  description: A data query language and runtime
+  website_url: http://graphql.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Query Languages
+  image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 6.24.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: ".babelrc"
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2016-04-30 00:35:49.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mmahalwy
+  last_updated_on: 2015-05-20 05:57:02.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend
+  detection_source: Repo Metadata
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-01-09 18:33:03.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/.eslintrc
+  detection_source: ".eslintrc"
+  last_updated_by: mmahalwy
+  last_updated_on: 2015-06-30 07:44:08.000000000 Z
+- name: Enzyme
+  description: JavaScript Testing utilities for React, by Airbnb
+  website_url: https://enzymejs.github.io/enzyme/
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/4488/default_87e6ca3fa146a959af95ccf3df1ec550eb434129.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Ahmed El Gabri
+  last_updated_on: 2016-08-27 12:37:58.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend
+  detection_source: Repo Metadata
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-01-09 18:33:03.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 2.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-01-09 18:33:03.000000000 Z
+- name: Monit
+  description: A free, open-source process supervision tool
+  website_url: https://mmonit.com
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/2986/MonitLogo.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Ahmed El Gabri
+  last_updated_on: 2016-08-27 12:37:58.000000000 Z
+- name: PhantomJS
+  description: Scriptable Headless WebKit
+  website_url: https://phantomjs.org/
+  version: 1.9.20
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/1832/phantomjs.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-01-09 18:33:03.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 1.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sabeur Thabti
+  last_updated_on: 2017-07-02 10:41:53.000000000 Z
+- name: Sentry
+  description: See performance issues, fix errors faster, and optimize code health.
+  website_url: https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile
+  open_source: true
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Exception Monitoring
+  image_url: https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mmahalwy
+  last_updated_on: 2015-05-20 05:57:02.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 1.15.3
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Ahmed El Gabri
+  last_updated_on: 2016-08-27 12:37:58.000000000 Z
+- name: Stylelint
+  description: A mighty, modern CSS linter
+  website_url: http://stylelint.io/
+  version: 7.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Ahmed El Gabri
+  last_updated_on: 2016-08-28 12:09:04.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 2.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: Sabeur Thabti
+  last_updated_on: 2016-11-29 00:13:15.000000000 Z
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 1.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mmahalwy
+  last_updated_on: 2015-05-20 05:57:02.000000000 Z
+- name: pre-commit
+  description: A slightly improved pre-commit hook for git
+  website_url: http://jish.github.io/pre-commit/
+  version: 1.1.3
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: Apollo
+  description: GraphQL server for Express, Connect, Hapi, Koa and more
+  website_url: https://www.apollographql.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/5508/CyUH653y.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: JSCS
+  website_url: https://github.com/jscs-dev/node-jscs
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2198/8018201.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mmahalwy
+  last_updated_on: 2015-05-20 05:57:02.000000000 Z
+- name: Winston
+  description: a multi-transport async logging library for node.js
+  website_url: https://github.com/winstonjs/winston
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6668/9682013.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: cssnano
+  description: A modular minifier, based on the PostCSS ecosystem. Created by @ben_eb.
+  website_url: http://cssnano.co/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6612/ehMiE-wz_normal.jpg
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-01-20 19:27:53.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: superagent library
+  description: robust and clean node and browser reqest library
+  website_url: https://visionmedia.github.io/superagent/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8032/pBeeJQDQ_normal.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-01-09 18:33:03.000000000 Z
+- name: morgan
+  description: HTTP request logger middleware for node.js
+  package_url: https://www.npmjs.com/morgan
+  version: 1.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16097/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Ahmed El Gabri
+  last_updated_on: 2016-08-29 19:02:00.000000000 Z
+  vulnerabilities:
+  - name: Code Injection in morgan
+    cve_id: CVE-2019-5413
+    cve_url: https://github.com/advisories/GHSA-gwg9-rgvj-4h5j
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 1.9.1
+- name: chromedriver
+  description: ChromeDriver for Selenium
+  package_url: https://www.npmjs.com/chromedriver
+  version: 2.22.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16334/default_c64b9481f9c6af91ec9ae0d9b64505998ac31ee7.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Ahmed El Gabri
+  last_updated_on: 2016-08-27 12:37:58.000000000 Z
+  vulnerabilities:
+  - name: Downloads Resources over HTTP in chromedriver
+    cve_id: CVE-2016-10579
+    cve_url: https://github.com/advisories/GHSA-jh5w-6964-x5cf
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.26.1
+  - name: chromedriver Command Injection vulnerability
+    cve_id: CVE-2023-26156
+    cve_url: https://github.com/advisories/GHSA-hm92-vgmw-qfmx
+    detected_date: Nov 10
+    severity: moderate
+    first_patched: 119.0.1
+- name: debug
+  description: Small debugging utility
+  package_url: https://www.npmjs.com/debug
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Ahmed El Gabri
+  last_updated_on: 2016-08-27 12:37:58.000000000 Z
+  vulnerabilities:
+  - name: debug Inefficient Regular Expression Complexity vulnerability
+    cve_id: CVE-2017-20165
+    cve_url: https://github.com/advisories/GHSA-9vvw-cc9w-f27h
+    detected_date: Jan 11
+    severity: high
+    first_patched: 2.6.9
+  - name: Regular Expression Denial of Service in debug
+    cve_id: CVE-2017-16137
+    cve_url: https://github.com/advisories/GHSA-gxpj-cx7g-858c
+    detected_date: Aug 22
+    severity: low
+    first_patched: 2.6.9
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-05-15 20:22:31.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+  - name: Express.js Open Redirect in malformed URLs
+    cve_id: CVE-2024-29041
+    cve_url: https://github.com/advisories/GHSA-rv95-896h-c2vc
+    detected_date: Mar 26
+    severity: moderate
+    first_patched: 4.19.2
+- name: http-proxy
+  description: HTTP proxying for the masses
+  package_url: https://www.npmjs.com/http-proxy
+  version: 1.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16430/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+  vulnerabilities:
+  - name: Denial of Service in http-proxy
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-6x33-pw7p-hmpq
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.18.1
+- name: qs
+  description: A querystring parser that supports nesting and arrays
+  package_url: https://www.npmjs.com/qs
+  version: 6.5.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16125/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mmahalwy
+  last_updated_on: 2015-05-20 05:57:02.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 6.5.3
+- name: serialize-javascript
+  description: Serialize JavaScript to a superset of JSON that includes regular expressions
+    and functions
+  package_url: https://www.npmjs.com/serialize-javascript
+  version: 1.3.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17203/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+  vulnerabilities:
+  - name: Insecure serialization leading to RCE in serialize-javascript
+    cve_id: CVE-2020-7660
+    cve_url: https://github.com/advisories/GHSA-hxcc-f52p-wc94
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.1.0
+  - name: Cross-Site Scripting in serialize-javascript
+    cve_id: CVE-2019-16769
+    cve_url: https://github.com/advisories/GHSA-h9rv-jmmf-4pgx
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 2.1.1
+- name: webpack-dev-middleware
+  description: A development middleware for webpack
+  package_url: https://www.npmjs.com/webpack-dev-middleware
+  version: 1.10.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16020/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+  vulnerabilities:
+  - name: Path traversal in webpack-dev-middleware
+    cve_id: CVE-2024-29180
+    cve_url: https://github.com/advisories/GHSA-wr3j-pwj9-hqq6
+    detected_date: Mar 22
+    severity: high
+    first_patched: 5.3.4
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  version: 2.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+  vulnerabilities:
+  - name: Missing Origin Validation in webpack-dev-server
+    cve_id: CVE-2018-14732
+    cve_url: https://github.com/advisories/GHSA-cf66-xwfp-gvc4
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.1.11
+- name: bootstrap-sass
+  description: Bootstrap-sass is a Sass-powered version of Bootstrap 3
+  package_url: https://www.npmjs.com/bootstrap-sass
+  version: 3.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16915/default_e65289f03a07faa8d49ce16c483f18c4f8a98db9.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+  vulnerabilities:
+  - name: Bootstrap Vulnerable to Cross-Site Scripting
+    cve_id: CVE-2019-8331
+    cve_url: https://github.com/advisories/GHSA-9v3m-8fp8-mj99
+    detected_date: Feb 23
+    severity: moderate
+    first_patched: 3.4.1
+  - name: Moderate severity vulnerability that affects bootstrap and bootstrap-sass
+    cve_id: CVE-2019-8331
+    cve_url: https://github.com/advisories/GHSA-wh77-3x4m-4q9g
+    detected_date: Jan 28
+    severity: moderate
+    first_patched: 3.4.1
+- name: node-sass
+  description: Wrapper around libsass
+  package_url: https://www.npmjs.com/node-sass
+  version: 4.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+  vulnerabilities:
+  - name: Improper Certificate Validation in node-sass
+    cve_id: CVE-2020-24025
+    cve_url: https://github.com/advisories/GHSA-r8f7-9pfq-mjmv
+    detected_date: Feb 10
+    severity: moderate
+    first_patched: 7.0.0
+  - name: Denial of Service in node-sass
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-9v62-24cr-58cx
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: superagent
+  description: Elegant &amp; feature rich browser / node HTTP with a fluent API
+  package_url: https://www.npmjs.com/superagent
+  version: 3.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16046/default_939338dc71400138c5e4a3464e041bf30f8f82ba.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-01-09 18:33:03.000000000 Z
+  vulnerabilities:
+  - name: superagent vulnerable to zip bomb attacks
+    cve_id: CVE-2017-16129
+    cve_url: https://github.com/advisories/GHSA-8225-6cvr-8pqp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 3.7.0
+- name: webpack-bundle-analyzer
+  description: Webpack plugin and CLI utility that represents bundle content as convenient
+    interactive zoomable treemap
+  package_url: https://www.npmjs.com/webpack-bundle-analyzer
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15991/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+  vulnerabilities:
+  - name: Cross-Site Scripting in webpack-bundle-analyzer
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-pgr8-jg6h-8gw6
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 3.3.2
+- name: apollo-client
+  description: A simple yet functional GraphQL client
+  package_url: https://www.npmjs.com/apollo-client
+  version: 1.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16731/default_9b37c4b9479b5cf61478ac117da829ccdd0ed0a0.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: app-module-path
+  description: Simple module to add additional directories to the Node module search
+    for top-level app modules
+  package_url: https://www.npmjs.com/app-module-path
+  version: 1.0.2
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17857/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: autoprefixer-loader
+  description: "[deprecated] Autoprefixer loader for webpack"
+  package_url: https://www.npmjs.com/autoprefixer-loader
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16544/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-cli
+  description: Babel command line
+  package_url: https://www.npmjs.com/babel-cli
+  version: 6.11.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15804/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-core
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/babel-core
+  version: 6.24.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15798/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-eslint
+  description: Custom parser for ESLint
+  package_url: https://www.npmjs.com/babel-eslint
+  version: 7.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-plugin-add-module-exports
+  description: Fix babel/babel#2212
+  package_url: https://www.npmjs.com/babel-plugin-add-module-exports
+  version: 0.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15943/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-plugin-react-transform
+  description: Babel plugin to instrument React components with custom transforms
+  package_url: https://www.npmjs.com/babel-plugin-react-transform
+  version: 2.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16402/default_f1e46d83300118af569c79b07f85830bc788c2d1.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-plugin-syntax-dynamic-import
+  description: Allow parsing of import
+  package_url: https://www.npmjs.com/babel-plugin-syntax-dynamic-import
+  version: 6.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16333/default_e8196e273db814cf9be505b35dec386fafb0dbaa.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-plugin-transform-decorators-legacy
+  description: A plugin for Babel 6 that
+  package_url: https://www.npmjs.com/babel-plugin-transform-decorators-legacy
+  version: 1.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16040/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-plugin-transform-react-constant-elements
+  description: Treat React JSX elements as value types and hoist them to the highest
+    scope
+  package_url: https://www.npmjs.com/babel-plugin-transform-react-constant-elements
+  version: 6.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16679/default_9012166d3e51cea5db6b4e69c80ace1c50b7509d.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-plugin-transform-react-display-name
+  description: Add displayName to React.createClass calls
+  package_url: https://www.npmjs.com/babel-plugin-transform-react-display-name
+  version: 6.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17240/default_f32012d99e98300650172d76a20c554617f1031d.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-plugin-transform-react-inline-elements
+  description: Turn JSX elements into exploded React objects
+  package_url: https://www.npmjs.com/babel-plugin-transform-react-inline-elements
+  version: 6.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16980/default_7a9e63a9526bf5da91e7a6f9f792b13e3543a875.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-plugin-transform-react-remove-prop-types
+  description: Remove unnecessary React propTypes from the production build
+  package_url: https://www.npmjs.com/babel-plugin-transform-react-remove-prop-types
+  version: 0.2.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16286/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-plugin-transform-runtime
+  description: Externalise references to helpers and builtins
+  package_url: https://www.npmjs.com/babel-plugin-transform-runtime
+  version: 6.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15849/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-plugin-typecheck
+  description: Transforms flow type annotations into runtime type checks
+  package_url: https://www.npmjs.com/babel-plugin-typecheck
+  version: 3.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17477/default_2ae5beb193365eca46e337162957275ebc9c6b3b.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-polyfill
+  description: Provides polyfills necessary for a full ES2015+ environment
+  package_url: https://www.npmjs.com/babel-polyfill
+  version: 6.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15867/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-preset-react
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/babel-preset-react
+  version: 6.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15825/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-preset-react-hmre
+  description: Babel preset for React HMR and Error Catching
+  package_url: https://www.npmjs.com/babel-preset-react-hmre
+  version: 1.1.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16560/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-preset-react-optimize
+  package_url: https://www.npmjs.com/babel-preset-react-optimize
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18323/default_69b3c041c1dc67ccd598b3c43ebcaa5170c056c6.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-preset-stage-0
+  description: Babel preset for stage 0 plugins
+  package_url: https://www.npmjs.com/babel-preset-stage-0
+  version: 6.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15846/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-preset-stage-2
+  description: Babel preset for stage 2 plugins
+  package_url: https://www.npmjs.com/babel-preset-stage-2
+  version: 6.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15891/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-register
+  description: Babel require hook
+  package_url: https://www.npmjs.com/babel-register
+  version: 6.11.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15865/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babel-runtime
+  description: Babel selfContained runtime
+  package_url: https://www.npmjs.com/babel-runtime
+  version: 6.11.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15861/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: babili-webpack-plugin
+  description: Babili Plugin for Webpack
+  package_url: https://www.npmjs.com/babili-webpack-plugin
+  version: 0.0.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17703/default_9693d58c90f5c726ee648423687212d2a94266da.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 1.15.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Ahmed El Gabri
+  last_updated_on: 2016-08-29 19:02:00.000000000 Z
+- name: bundle-loader
+  description: Bundle loader module for webpack
+  package_url: https://www.npmjs.com/bundle-loader
+  version: 0.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17712/default_43c2244142d473ead35e8e5c22850dfec0a06c35.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: clean-webpack-plugin
+  description: A webpack plugin to remove/clean your build folder
+  package_url: https://www.npmjs.com/clean-webpack-plugin
+  version: 0.1.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16068/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: compression
+  description: Node.js compression middleware
+  package_url: https://www.npmjs.com/compression
+  version: 1.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16187/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: compression-webpack-plugin
+  description: Prepare compressed versions of assets to serve them with Content-Encoding
+  package_url: https://www.npmjs.com/compression-webpack-plugin
+  version: 0.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16347/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: cookie-parser
+  description: Parse HTTP request cookies
+  package_url: https://www.npmjs.com/cookie-parser
+  version: 1.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16136/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-01-09 18:33:03.000000000 Z
+- name: cors
+  description: Node.js CORS middleware
+  package_url: https://www.npmjs.com/cors
+  version: 2.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Ahmed El Gabri
+  last_updated_on: 2016-08-27 12:37:58.000000000 Z
+- name: cssnano
+  description: A modular minifier, built on top of the PostCSS ecosystem
+  package_url: https://www.npmjs.com/cssnano
+  version: 3.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16102/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-01-20 19:27:53.000000000 Z
+- name: del
+  description: Delete files and directories
+  package_url: https://www.npmjs.com/del
+  version: 2.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mmahalwy
+  last_updated_on: 2015-05-20 05:57:02.000000000 Z
+- name: errorhandler
+  description: Development-only error handler middleware
+  package_url: https://www.npmjs.com/errorhandler
+  version: 1.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16986/default_3823aba25646a3f105cc15ee9df24fdf78972314.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: eslint-config-airbnb
+  description: Airbnb's ESLint config, following our styleguide
+  package_url: https://www.npmjs.com/eslint-config-airbnb
+  version: 13.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15857/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: eslint-loader
+  description: ESlint loader for webpack
+  package_url: https://www.npmjs.com/eslint-loader
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15889/default_724d5bc657ec09174564f19f2a5d26098549124a.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 2.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: eslint-plugin-mocha
+  description: Eslint rules for mocha
+  package_url: https://www.npmjs.com/eslint-plugin-mocha
+  version: 4.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16194/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 6.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: extract-text-webpack-plugin
+  description: Extract text from bundle into a file
+  package_url: https://www.npmjs.com/extract-text-webpack-plugin
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15855/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: file-loader
+  description: A file loader module for webpack
+  package_url: https://www.npmjs.com/file-loader
+  version: 0.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: graphql-tag
+  description: A JavaScript template literal tag that parses GraphQL queries
+  package_url: https://www.npmjs.com/graphql-tag
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16631/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: history
+  description: Manage session history with JavaScript
+  package_url: https://www.npmjs.com/history
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16209/default_dc80ff0a17bac19253430a4f0f586714841116db.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-01-09 18:33:03.000000000 Z
+- name: html-webpack-plugin
+  description: Simplifies creation of HTML files to serve your webpack bundles
+  package_url: https://www.npmjs.com/html-webpack-plugin
+  version: 1.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: humps
+  description: Underscore-to-camelCase converter
+  package_url: https://www.npmjs.com/humps
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18430/default_f6f0590858b32ae7c8b1cfa52e30caaf3c7dfe98.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-01-09 18:33:03.000000000 Z
+- name: image-webpack-loader
+  description: Image loader module for webpack
+  package_url: https://www.npmjs.com/image-webpack-loader
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16668/default_e3c0987b80983280e46e6e1723fcfcff50fa4824.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: imports-loader
+  description: Imports loader module for webpack
+  package_url: https://www.npmjs.com/imports-loader
+  version: 0.6.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16422/default_cdeaf2fdc112ae29eada7343314e0eee59c7eb0d.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: isomorphic-fetch
+  description: Isomorphic WHATWG Fetch API, for Node &amp; Browserify
+  package_url: https://www.npmjs.com/isomorphic-fetch
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16185/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: jscs
+  description: JavaScript Code Style
+  package_url: https://www.npmjs.com/jscs
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16176/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Ahmed El Gabri
+  last_updated_on: 2016-08-27 12:37:58.000000000 Z
+- name: json-loader
+  description: Json loader module for webpack
+  package_url: https://www.npmjs.com/json-loader
+  version: 0.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15995/default_200de1a6fc4121e019ce4a5b0cf9ad37c7756e2d.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: karma-chai
+  description: Chai for Karma
+  package_url: https://www.npmjs.com/karma-chai
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16177/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-01-09 18:33:03.000000000 Z
+- name: karma-chai-sinon
+  description: Chai + Sinon-Chai + Sinon for Karma
+  package_url: https://www.npmjs.com/karma-chai-sinon
+  version: 0.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17987/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sabeur Thabti
+  last_updated_on: 2017-04-20 07:36:08.000000000 Z
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-01-09 18:33:03.000000000 Z
+- name: karma-junit-reporter
+  description: A Karma plugin. Report results in junit xml format
+  package_url: https://www.npmjs.com/karma-junit-reporter
+  version: 0.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16695/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: karma-mocha
+  description: A Karma plugin. Adapter for Mocha testing framework
+  package_url: https://www.npmjs.com/karma-mocha
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15962/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-01-09 18:33:03.000000000 Z
+- name: karma-phantomjs-launcher
+  description: A Karma plugin. Launcher for PhantomJS
+  package_url: https://www.npmjs.com/karma-phantomjs-launcher
+  version: 1.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15947/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-01-09 18:33:03.000000000 Z
+- name: karma-script-launcher
+  description: A Karma plugin. Launcher for shell scripts
+  package_url: https://www.npmjs.com/karma-script-launcher
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17382/default_b39374c3a74b433364bfdbff07be26214bf186fd.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-01-09 18:33:03.000000000 Z
+- name: karma-sinon
+  description: Sinon for Karma
+  package_url: https://www.npmjs.com/karma-sinon
+  version: 1.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16601/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sabeur Thabti
+  last_updated_on: 2017-04-20 07:36:08.000000000 Z
+- name: karma-sourcemap-loader
+  description: Karma plugin that locates and loads existing javascript source map
+    files
+  package_url: https://www.npmjs.com/karma-sourcemap-loader
+  version: 0.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16011/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: karma-webpack
+  description: Use webpack with karma
+  package_url: https://www.npmjs.com/karma-webpack
+  version: 1.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15955/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: normalizr
+  description: Normalizes and denormalizes JSON according to schema for Redux and
+    Flux applications
+  package_url: https://www.npmjs.com/normalizr
+  version: 3.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17691/default_7ff152b9bcf219fad0d56c78a016d5bad6a2a526.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: path
+  description: Node.JS path module
+  package_url: https://www.npmjs.com/path
+  version: 0.11.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16082/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Ahmed El Gabri
+  last_updated_on: 2016-08-27 12:37:58.000000000 Z
+- name: phantomjs-polyfill
+  description: Polyfill for Function.prototype.bind
+  package_url: https://www.npmjs.com/phantomjs-polyfill
+  version: 0.0.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17058/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-01-09 18:33:03.000000000 Z
+- name: postcss-loader
+  description: PostCSS loader for webpack
+  package_url: https://www.npmjs.com/postcss-loader
+  version: 0.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15876/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: precss
+  description: Use Sass-like markup and staged CSS features in CSS
+  package_url: https://www.npmjs.com/precss
+  version: 1.4.0
+  license: CC0-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16689/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: pretty-error
+  description: See nodejs errors with less clutter
+  package_url: https://www.npmjs.com/pretty-error
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17692/default_52c11a434d2ce37281914a7f804e07cf95ab96f7.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sabeur Thabti
+  last_updated_on: 2017-07-02 10:41:53.000000000 Z
+- name: promise
+  description: Bare bones Promises/A+ implementation
+  package_url: https://www.npmjs.com/promise
+  version: 7.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16093/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Ahmed El Gabri
+  last_updated_on: 2016-08-29 19:02:00.000000000 Z
+- name: prop-types
+  description: Runtime type checking for React props and similar objects
+  package_url: https://www.npmjs.com/prop-types
+  version: 15.5.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: raven
+  description: A standalone
+  package_url: https://www.npmjs.com/raven
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17666/default_fc76e978e9d0682c81d41dcce6c217fcd73fe671.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-01-09 18:33:03.000000000 Z
+- name: raw-loader
+  description: A loader for webpack that allows importing files as a String
+  package_url: https://www.npmjs.com/raw-loader
+  version: 0.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16030/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: react-addons-test-utils
+  description: This package provides the React TestUtils add-on
+  package_url: https://www.npmjs.com/react-addons-test-utils
+  version: 15.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15981/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: react-apollo
+  description: React Apollo Hooks, Components, and HOC
+  package_url: https://www.npmjs.com/react-apollo
+  version: 1.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17111/default_1dbf402c11ef653fcaedc84e608a244e30ebfb87.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: react-bootstrap
+  description: Bootstrap 3 components built with React
+  package_url: https://www.npmjs.com/react-bootstrap
+  version: 0.30.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16383/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 15.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: react-helmet
+  description: A document head manager for React
+  package_url: https://www.npmjs.com/react-helmet
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16513/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: react-intl
+  description: Internationalize React apps
+  package_url: https://www.npmjs.com/react-intl
+  version: 2.1.5
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16566/default_682ffbfa52bb1873b212151cffed5d464d6efdfb.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: react-loadable
+  description: A higher order component for loading components with promises
+  package_url: https://www.npmjs.com/react-loadable
+  version: 4.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17269/default_9b05b1c3b13fc328bf76b8d3fea01ff4688c0c1d.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: react-router
+  description: A complete routing library for React
+  package_url: https://www.npmjs.com/react-router
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16058/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: react-router-redux
+  description: Redux bindings for React Router
+  package_url: https://www.npmjs.com/react-router-redux
+  version: 4.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16495/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: react-transform-catch-errors
+  description: React Transform that catches errors inside React components
+  package_url: https://www.npmjs.com/react-transform-catch-errors
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17234/default_9aa9c9d4e491c9d2d70df74bfa33cf525babb7f5.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: react-transform-hmr
+  description: A React Transform that enables hot reloading React classes using Hot
+    Module Replacement API
+  package_url: https://www.npmjs.com/react-transform-hmr
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16790/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: react-virtualized
+  description: React components for efficiently rendering large
+  package_url: https://www.npmjs.com/react-virtualized
+  version: 9.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16918/default_c17ccfb3dc0510bb2c684b87ee080a74a9728c34.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: redbox-react
+  description: A redbox
+  package_url: https://www.npmjs.com/redbox-react
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16989/default_665377899254fe85c1cf6bf7f15e24c4180a76ac.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: redux-devtools
+  description: Redux DevTools with hot reloading and time travel
+  package_url: https://www.npmjs.com/redux-devtools
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17051/default_50357c490b205882dcfb608fd3c74b446186c21e.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: redux-devtools-dock-monitor
+  description: A resizable and movable dock for Redux DevTools monitors
+  package_url: https://www.npmjs.com/redux-devtools-dock-monitor
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18001/default_ab659b5159df20d1c32f07b936d63628134f5b3d.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: redux-devtools-log-monitor
+  description: The default tree view monitor for Redux DevTools
+  package_url: https://www.npmjs.com/redux-devtools-log-monitor
+  version: 1.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18108/image.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: resolve-url-loader
+  description: Webpack loader that resolves relative paths in url
+  package_url: https://www.npmjs.com/resolve-url-loader
+  version: 1.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16468/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: sass-loader
+  description: Sass loader for webpack
+  package_url: https://www.npmjs.com/sass-loader
+  version: 6.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: serve-favicon
+  description: Favicon serving middleware with caching
+  package_url: https://www.npmjs.com/serve-favicon
+  version: 2.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16361/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: sinon-chai
+  description: Extends Chai with assertions for the Sinon.JS mocking framework
+  package_url: https://www.npmjs.com/sinon-chai
+  version: 2.8.0
+  license: BSD-2-Clause,WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15914/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Ahmed El Gabri
+  last_updated_on: 2016-08-27 12:37:58.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 0.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: stylelint-webpack-plugin
+  description: A stylelint plugin for webpack
+  package_url: https://www.npmjs.com/stylelint-webpack-plugin
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17288/default_b2015e9577d171c4c3f12c3c8d253c01fe63ba8d.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: url
+  description: The core `url` packaged standalone for use with Browserify
+  package_url: https://www.npmjs.com/url
+  version: 0.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16462/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: mmahalwy
+  last_updated_on: 2015-05-20 05:57:02.000000000 Z
+- name: url-loader
+  description: A loader for webpack which transforms files into base64 URIs
+  package_url: https://www.npmjs.com/url-loader
+  version: 0.5.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15858/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: webpack-dashboard
+  description: A CLI dashboard for webpack dev server
+  package_url: https://www.npmjs.com/webpack-dashboard
+  version: 0.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16995/default_32f63a11ae9faad5eff3053ff1a1600fde8a525b.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: webpack-hot-middleware
+  description: Webpack hot reloading you can attach to your own server
+  package_url: https://www.npmjs.com/webpack-hot-middleware
+  version: 2.12.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16052/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
+- name: winston
+  description: A logger for just about everything
+  package_url: https://www.npmjs.com/winston
+  version: 1.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16003/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/ashellwig/quran.com-frontend/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Mohamed El Mahallawy
+  last_updated_on: 2017-09-22 03:10:22.000000000 Z
